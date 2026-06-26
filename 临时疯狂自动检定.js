@@ -6,6 +6,7 @@
 // @timestamp    1782221141
 // 2026-06-23
 // @license      MIT
+// @homepageURL  https://github.com/SylZ25/myriad-sealdice-js-extension
 // ==/UserScript==
 
 let ext = seal.ext.find('AutoIntCheck');
